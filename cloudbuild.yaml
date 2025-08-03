@@ -25,5 +25,3 @@ substitutions:
   _HUGO_VERSION: 0.96.0
 options:
   defaultLogsBucketBehavior: REGIONAL_USER_OWNED_BUCKET
-options:
-  logging: CLOUD_LOGGING_ONLY
